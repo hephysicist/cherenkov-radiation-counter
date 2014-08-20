@@ -1,5 +1,6 @@
 #ifndef SAZ_CAMAC_H
 #define SAZ_CAMAC_H
+#define ZAKHAROV 1 
 #include </usr/local/include/lsi6camac.h> 
 #include <iostream>
 #include <stdio.h>
